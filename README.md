@@ -1,3 +1,7 @@
+**I managed to successfully add this project as an example to my own fork of LibGDX. that's why it's been archived.**
+
+**I'm going to delete this project on 27th of December 2030; or maybe even sooner.**
+
 # NewSokoban
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
